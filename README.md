@@ -1,46 +1,59 @@
-## Oi, eu sou a Lari 👋
+## Hi, I'm Lari 👋✨
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🐾 Médica Veterinária Anestesista em transição para tecnologia  
-🚀 Participando de bootcamps e desafios na **DIO**
-
----
-
-### ✨ Sobre mim
-Sou médica veterinária com experiência em ambientes de alta pressão e tomada rápida de decisão.  
-Atualmente, estou migrando para a área de tecnologia, unindo pensamento lógico, organização e vontade constante de aprender.
-
-Gosto de aprender na prática, organizar projetos e evoluir um pouco todos os dias 🚀
+💻 **Systems Analysis and Development** student  
+🐾 Veterinary Anesthesiologist transitioning into technology  
+🚀 Bootcamps and hands-on challenges at **DIO**
 
 ---
 
-### 🚧 O que estou aprendendo agora
-- Lógica de programação  
-- Git e GitHub  
-- HTML, CSS e JavaScript  
-- Fundamentos de desenvolvimento de software  
+### ✨ About me
+I'm a veterinary anesthesiologist with experience in high-pressure environments, fast decision-making, and safety-focused workflows.  
+Currently transitioning into the tech field, combining logical thinking, organization, and continuous learning.
+
+I learn best by building projects and improving a little every day 🚀
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-- Git | GitHub  
-- VS Code  
-- (em constante atualização ✨)
+### 🚧 Current focus
+📚 Studying:
+- Programming logic  
+- Git and GitHub  
+- HTML, CSS, and JavaScript  
+
+🛠️ Practicing:
+- Code versioning  
+- Project organization  
+- Building beginner-friendly projects  
 
 ---
 
-### 📌 Projetos
-Aqui você vai encontrar:
-- Desafios de bootcamps da DIO  
-- Projetos de estudo  
-- Exercícios práticos de programação  
+### 🛠️ Technologies & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-### 📫 Onde me encontrar
-- LinkedIn: https://www.linkedin.com/in/paixaolari/
+### 📌 What you'll find here
+- 📘 DIO bootcamp projects and challenges  
+- 🧠 Programming logic exercises  
+- 🧪 Study and practice projects  
+- 📈 Real learning progress  
 
-✨ *Sempre aberta a aprender, colaborar e evoluir.*
+---
+
+### 📫 Let's connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/paixaolari/)
+
+---
+
+✨ *Always learning, building, and growing in tech.*
+
 
 
 <!--
